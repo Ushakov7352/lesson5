@@ -1,0 +1,13 @@
+.block {
+   width: 60px;
+   height: 60px;
+   float: left;
+}
+
+.black {
+   background: #000;
+}
+
+.white {
+   background: #fff;
+}
